@@ -1,3 +1,4 @@
+
 /*
 1-
 let a=prompt("Digite o primeiro valor: ");
